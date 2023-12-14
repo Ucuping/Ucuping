@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <!--
 **Ucuping/Ucuping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, Yusup Supriyanto here 👋
+
+
+![Yusup's github stats](https://github-readme-stats.vercel.app/api?username=Ucuping&show_icons=true&theme=default)
+
+Here are some ideas to get you started:
+
+- 🔭 I'm working on a project at Web Media Solusi Digital and I'm the Founder there
+- 🌱 I'm learning to make a good application
+- 💬 Ask me about web development
+- 📫 How to reach me: For business mail to yusupstrix7@gmail.com
+- ⚡ Fun fact: I am a person who likes to learn new things 😅
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucuping&layout=compact)
